@@ -19,7 +19,7 @@ El directorio debe existir:
 
 /data/personalized_voice/GLADOS
 
-Si esta carpeta no existe, NO continúes con la instalación de XIANA.
+Si esta carpeta no existe, NO continúes con la instalación.
 
 ## Instalar GLADOS
 
