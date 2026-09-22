@@ -1,4 +1,4 @@
-# Voces españolas personalizadas para Dreame
+# Voces españolas personalizadas para Dreame x40 ultra
 
 Paquetes de voces españolas personalizadas para robots Dreame.
 
