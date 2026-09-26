@@ -1,0 +1,1 @@
+Please place robot back into dock, then restart mapping.

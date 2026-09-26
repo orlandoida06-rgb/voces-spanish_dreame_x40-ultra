@@ -1,0 +1,1 @@
+Built-in voice assistant language switching takes approximately 30 seconds.

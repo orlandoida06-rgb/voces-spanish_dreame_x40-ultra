@@ -1,0 +1,1 @@
+Failed to install mop pads. Please install them manually.

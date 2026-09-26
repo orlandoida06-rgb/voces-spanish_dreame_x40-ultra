@@ -1,0 +1,1 @@
+Please check whether the laser distance sensor has any jammed item.

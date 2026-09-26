@@ -1,0 +1,1 @@
+Ensure that the base station is powered on. Place the robot on it to start activation.

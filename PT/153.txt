@@ -1,0 +1,1 @@
+Your robot is detected in the no-go zone. Please move your robot out of this area.

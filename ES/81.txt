@@ -1,0 +1,1 @@
+Carpet sensor error. Please restart the robot or contact customer service.

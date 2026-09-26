@@ -1,0 +1,1 @@
+Place robot back into dock before starting tasks. When hearing, start charging, it means the installation is in place.
