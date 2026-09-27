@@ -1,1 +1,0 @@
-Wrong password. Failed to connect to the network. Please reconfigure.

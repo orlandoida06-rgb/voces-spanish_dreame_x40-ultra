@@ -1,1 +1,0 @@
-Base station activation failed. Open the app to check the solution.

@@ -1,1 +1,0 @@
-Mock pad is not in the dock. Please retry after putting it in the dock.

@@ -1,1 +1,0 @@
-fail to obtain the IP address. Please check the router settings.

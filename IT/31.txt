@@ -1,1 +1,0 @@
-Positioning failed. Map is invalid. Robot will start a new cleanup.

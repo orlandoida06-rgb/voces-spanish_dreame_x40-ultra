@@ -1,1 +1,0 @@
-Unable to start tasks in hidden area, please move robot to other areas and restart the task.

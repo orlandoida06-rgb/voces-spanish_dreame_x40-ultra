@@ -1,1 +1,0 @@
-The path is blocked. Please try to delete no-go zones or move your robot out of this area.

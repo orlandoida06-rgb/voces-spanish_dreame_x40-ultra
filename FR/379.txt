@@ -1,1 +1,0 @@
-No wireless network found. Please connect to the 2.4 GHz Wi-Fi band. Try again after placing the robot close to the router.

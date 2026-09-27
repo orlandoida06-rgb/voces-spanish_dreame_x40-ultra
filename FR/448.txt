@@ -1,1 +1,0 @@
-Used water tank is not installed, please install it before starting the task.

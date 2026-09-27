@@ -1,1 +1,0 @@
-Adjusting cleaning parameters is not supported in Clean Genius mode.

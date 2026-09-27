@@ -1,1 +1,0 @@
-Unable to start tasks on carpets, please move robot to hard floor and restart the task.

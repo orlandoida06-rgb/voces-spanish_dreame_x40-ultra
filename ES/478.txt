@@ -1,1 +1,0 @@
-After completing mop washing, Robot will resume cleaning task.

@@ -1,1 +1,0 @@
-Self-cleaning completed, now move the host to the corresponding floor and click the start button to continue working.

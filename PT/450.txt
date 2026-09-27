@@ -1,1 +1,0 @@
-Unable to start tasks in no-go zone, please move robot to other areas and restart the task.

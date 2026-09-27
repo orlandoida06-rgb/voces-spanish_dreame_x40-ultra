@@ -1,1 +1,0 @@
-Ok, have switched to strong mode.

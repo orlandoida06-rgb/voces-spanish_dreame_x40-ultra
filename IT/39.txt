@@ -1,1 +1,0 @@
-Wheels are not in contact with the ground. Please wipe the cliff sensors, reposition the robot, and start it again.
